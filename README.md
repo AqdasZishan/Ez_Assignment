@@ -12,7 +12,6 @@ This Django project allows users to log in with a username that determines acces
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [License](#license)
 
 ## Project Overview
 
