@@ -1,5 +1,3 @@
-Sure! Here’s a sample README file for your Django file sharing project:
-
 ---
 
 # File Share Project
@@ -105,11 +103,4 @@ file_share_project/
         ├── boss_dashboard.html
         └── user_dashboard.html
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-Feel free to customize any section according to your needs or add more details if necessary!
